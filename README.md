@@ -1,6 +1,8 @@
 Challenge the “Happiness” Score
 ================
-Chiara
+
+View it on [kaggle](https://www.kaggle.com/crizzi/are-happy-people-really-happy).
+
 13/10/2017
 
 In this document I will look at the happiness score and try to
@@ -90,6 +92,7 @@ Is there a correlation between the fact that the happiness score changes
 and the value of the happiness score
 itself?
 
+(View this plot on [kaggle](https://www.kaggle.com/crizzi/are-happy-people-really-happy) for the interactive display).
 ![](are-happy-people-really-happy_files/figure-gfm/newplot.png)<!-- -->
 
 We can see that, in general, the regions that have high happiness score
